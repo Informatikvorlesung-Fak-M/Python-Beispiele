@@ -4,4 +4,3 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - basyx-python-sdk
